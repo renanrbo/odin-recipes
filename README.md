@@ -9,7 +9,7 @@ This project is part of my studies with **The Odin Project**.
 - Homepage with navigation
 - Three recipes with their respective pages
 - Clean and minimal structure using only HTML
-- Assets folder with images for future use
+- Assets folder with images
 
 ## Technologies Used
 - HTML5
