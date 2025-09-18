@@ -1,0 +1,24 @@
+html{
+background-color:#E6DED1;
+font-family: "Lucida Console", "Courier New", monospace;
+color: #814141;
+}
+.banner{
+    text-align: center;
+    font-size: 25px;
+    padding: 50px;
+    border: 10px;
+    border-style:dashed;
+    border-color: #814141;
+    margin-bottom: 30px;
+}
+
+ul{
+  text-align: center;
+  margin: 0 auto;
+  padding: 0; 
+  border: 10px;
+  border-style:dotted;
+  border-color: #814141;
+}
+
